@@ -10,11 +10,21 @@
 - Building real-time computer vision applications for edge devices like Raspberry Pi and Jetson Nano.
 - Exploring object detection, image classification, and anomaly detection in constrained environments.
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning 🚀
 
-- Advanced techniques in **TensorFlow Lite** and **ONNX** for optimizing ML models.
-- Efficient deployment strategies for **Jetson Nano** and **Raspberry Pi**.
-- Integrating machine learning workflows into real-world embedded systems using frameworks like **Caffe** and **TensorFlow**.
+- **Advanced Techniques in TensorFlow Lite and ONNX**  
+  Optimizing ML models for better performance and efficiency.  
+
+- **Efficient Deployment Strategies for Jetson Nano and Raspberry Pi**  
+  Exploring best practices for deploying AI solutions on edge devices.  
+
+- **Integrating Machine Learning Workflows into Embedded Systems**  
+  Leveraging frameworks like Caffe and TensorFlow for real-world applications.  
+
+- **RUST Programming**  
+  Mastering RUST and developing robust applications on edge devices.  
+
+Feel free to tweak or let me know if you'd like further customization!
 
 ### 💞️ Looking to Collaborate On
 
