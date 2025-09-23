@@ -33,7 +33,7 @@ Feel free to tweak or let me know if you'd like further customization!
 
 ### 📫 How to Reach Me
 
-- Feel free to connect via [LinkedIn](https://www.linkedin.com/in/ashutoshktiwari/) email me at `krashu130gmail.com`.
+- Feel free to connect via [LinkedIn](https://www.linkedin.com/in/ashutoshktiwari/) email me at `ashutoshktiwari91gmail.com`.
 
 ### 😄 Pronouns
 
