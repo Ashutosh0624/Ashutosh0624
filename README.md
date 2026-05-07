@@ -1,22 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ashu</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
 <h3 align="center">Embedded Systems Engineer | Edge AI & Computer Vision | Safety-Critical Software</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ashutoshktiwari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ashutoshktiwari91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🏢 **Engineer II** at **Safran Electronics & Defense**, Bangalore — building safety-critical satellite modem management systems (iQ800, Hughes Jupiter, SES) under **DO-178C** compliance
+- 🏢 **Engineer II** at **Safran Engineering Services**, Bangalore — building safety-critical satellite modem management systems under **DO-178C** compliance
 - 🎓 **MS in Advanced Electrical & Electronics Engineering** — University of Leicester *(Distinction, 84%)*
 - 🔬 Research interest: **Embedded ML**, **Edge AI**, **Physics-Informed Neural Networks** for aerospace & satellite systems
 - 🛰️ Worked on **FADEC (Trent 900)** at Rolls-Royce via ALTEN, **Marine Navigation** at Raymarine, and now **Satellite Comms** at Safran
-- 🎯 Targeting: **PhD at NTNU / KTH / TU Berlin / TU Dresden** | Industry: **Qualcomm · Nokia · Ericsson · NVIDIA**
-- 🌍 Based in **Bangalore, India** | 🇩🇪 Learning German (A2)
+- 🌍 Based in **Bangalore, India** 
 
 ---
 
@@ -63,7 +62,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🛰️ **Satellite Modem Manager (SMM)** | Hexagonal-architecture REST manager with D-Bus integration, HAL abstraction layer, DO-178C audit trails | C++, Python, D-Bus, FastAPI |
-| 🧠 **PIML ModCod Predictor** | Physics-Informed ML for DVB-S2X modulation & coding scheme prediction using ITU-R atmospheric models | PyTorch, PINN, MATLAB |
 | ⚡ **FADEC PINN on Edge** | Runtime Assurance architecture for Trent 900 FADEC inference on Raspberry Pi 5 (ONNX INT8) | ONNX, sdbus-c++, Python |
 | 📡 **Edge CV Pipeline** | Real-time object detection & anomaly detection on constrained edge devices | TFLite, ONNX, Jetson Nano |
 
@@ -72,17 +70,15 @@
 ## 🌱 Currently Learning
 
 - 🦀 **Rust** — systems programming for robust edge applications
-- ☁️ **AWS MLA-C01** — Machine Learning specialization on AWS
-- 🔢 **DSA in C++** — NeetCode 150, targeting Qualcomm / Nokia / Ericsson interviews (July 2026)
 - 🧬 **CUDA Programming** — GPU-accelerated inference pipelines
-- 🎓 **PhD Research Prep** — IEEE publications in Embedded ML & Satellite Communications
+- 🎓 **Research work* — IEEE publications in Embedded ML & Satellite Communications
 
 ---
 
 ## 📈 Research Interests
 
 ```
-📡 Satellite Communications     →   DVB-S2X, AMC, ModCod Prediction
+📡 Satellite Communications     →   DO-178C
 ✈️ Aerospace Safety-Critical    →   DO-178C, FADEC, Runtime Assurance
 🤖 Edge AI / Embedded ML        →   TFLite, ONNX, INT8 Quantization
 👁️ Computer Vision              →   Object Detection, Anomaly Detection, Tracking
@@ -91,18 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 💞️ Open to Collaborate On
 
