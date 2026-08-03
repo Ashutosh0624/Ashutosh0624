@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ashutosh Tiwari
+## Hi, I'm Ashutosh Tiwari
 
 **Embedded Systems Engineer | Runtime Verification & Formal Methods | Safety-Critical Software**
 
@@ -6,11 +6,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🏢 Engineer II at **Safran Engineering Services**, Bangalore — building safety-critical satellite modem management systems under DO-178C compliance
-- 🎓 MSc Advanced Electrical & Electronics Engineering — **University of Leicester** (Distinction, 84%)
-- 🔬 Research focus: **runtime verification of learning-enabled autonomous systems** — using SMT solving (Z3) as a real-time adversarial oracle for LLM-based decision-making in safety-critical contexts
-- 🛰️ Background spans FADEC (Trent 900) at Rolls-Royce via ALTEN, Marine Navigation at Raymarine, and now Satellite Comms at Safran
-- 🌍 Based in Bangalore, India
+- Engineer II at **Safran Engineering Services**, Bangalore — building safety-critical satellite modem management systems under DO-178C compliance
+- MSc Advanced Electrical & Electronics Engineering — **University of Leicester** (Distinction, 84%)
+-  Research focus: **runtime verification of learning-enabled autonomous systems** — using SMT solving (Z3) as a real-time adversarial oracle for LLM-based decision-making in safety-critical contexts
+- Background spans FADEC (Trent 900) at Rolls-Royce via ALTEN, Marine Navigation at Raymarine, and now Satellite Comms at Safran
+- Based in Bangalore, India
 
 ---
 
