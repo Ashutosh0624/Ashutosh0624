@@ -46,28 +46,23 @@
 
 ---
 
-### 🌱 Currently Learning
-
-- 🦀 **Rust** — systems programming for robust, verifiable embedded applications
-- 📝 Preparing IEEE research publications in runtime verification, formal methods, and LLM safety for safety-critical systems
-
 ---
 
 ### 📈 Research Interests
 
-- 🧠 **Runtime Verification of LLM-Based Systems** → Z3, adversarial oracles, hallucination detection
-- ✈️ **Aerospace Safety-Critical Software** → DO-178C, FADEC, Runtime Assurance
-- 🛰️ **Satellite Communications** → DO-178C, DVB-S2X
-- 🔐 **Formal Methods** → SMT/OMT, constraint-based verification, tamper-evident audit trails
+- **Runtime Verification of LLM-Based Systems** → Z3, adversarial oracles, hallucination detection
+- **Aerospace Safety-Critical Software** → DO-178C, FADEC, Runtime Assurance
+- **Satellite Communications** → DO-178C, DVB-S2X
+- **Formal Methods** → SMT/OMT, constraint-based verification, tamper-evident audit trails
 
 ---
 
 ### 💞️ Open to Collaborate On
 
-- 🧠 Runtime verification and formal methods for AI/LLM-based decision systems
-- ✈️ Safety-critical software (DO-178C / IEC 61508 domain)
-- 🛰️ Satellite / RF communications + formal verification
-- 📝 IEEE research publications in formal verification & safety-critical AI
+- Runtime verification and formal methods for AI/LLM-based decision systems
+- Safety-critical software (DO-178C / IEC 61508 domain)
+- Satellite / RF communications + formal verification
+
 
 ---
 
